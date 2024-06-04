@@ -1,0 +1,1 @@
+Emits messages throught RabbitMQ
